@@ -1,0 +1,22 @@
+[
+  {
+    "title": "50 millions d’euros  à destination des startups africaines",
+    "image": "/sites/default/files/2020-04/fibre%403x.jpg",
+    "tag": "Finance",
+    "date": "Mercredi 29 avril 2020",
+    "teaser": "Lorem ipsum dolor sit amet consectur adepiscing ipsum dolor conectur.",
+    "link": "/article/fonds-startup-afrique",
+    "id": "51",
+    "imageUrl": "http://localhost:32867/sites/default/files/2020-04/fibre%403x.jpg"
+  },
+  {
+    "title": "Lorem ipsum dolor sit amet",
+    "image": "/sites/default/files/2020-04/fibre%403x.jpg",
+    "tag": "Finance",
+    "date": "Mercredi 29 avril 2020",
+    "teaser": "Lorem ipsum dolor sit amet consectur adepiscing ipsum dolor conectur.",
+    "link": "/node/52",
+    "id": "52",
+    "imageUrl": "http://localhost:32867/sites/default/files/2020-04/fibre%403x.jpg"
+  }
+]
